@@ -1,9 +1,13 @@
 body {
 	background-color:#FFFFFF;
 	font-family: Verdana, Geneva, sans-serif;
-	color: #0097A7;
+	color: #212121;
 }
 a {
-	color: #212121;
+	color: #FFC107;
 	text-decoration: none;
 }
+h1 { 
+	color:#0097A7;
+}
+	
